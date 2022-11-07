@@ -1,0 +1,13 @@
+.titre-parallax{
+	background-color: #ffbfd3;
+	color: #dcecfe;
+	padding: 18px;
+	letter-spacing: 10px;
+	position: absolute;
+	left: 35%;
+	top: 40%;
+	border-radius: 10px;
+	opacity: 0.8;
+	
+	
+}
